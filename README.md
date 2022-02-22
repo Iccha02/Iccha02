@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iccha02
-- 👀 I’m interested in crypto, NFTs, and vertical farming
-- 🌱 I’m currently learning OOP at NYU Tandon
-- 💞️ I’m looking to collaborate on NFT projects
+- 👀 I’m interested in crypto & NFTs
+- 🌱 I’m currently learning Algo & CompArch at NYU Tandon
+- 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me: iccha02@gmail.com
 
 <!---
